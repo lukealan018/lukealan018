@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lukealan018
-- 👀 I’m interested in sports, gaming, movies, cars and just having a good time. 
-- 🌱 I’m currently learning BLockchain and coding. 
-- 💞️ I’m looking to collaborate on creating ethereum blockchain games 
+- 👀 I’m interested in sports, gaming, movies, cars, 5G and mostly just enjoying life and having a good time. 
+- 🌱 I’m currently learning Blockchain and coding. 
+- 💞️ I’m looking to collaborate on creating ethereum blockchain 
 - 📫 How to reach me lukealan018@gmail.com
 
 <!---
